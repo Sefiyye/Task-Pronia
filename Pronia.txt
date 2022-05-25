@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: AP204_Pronia, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>AP204_Pronia -> C:\Users\Ilhame\Desktop\AP204_Pronia\AP204_Pronia\bin\Debug\netcoreapp3.1\AP204_Pronia.dll
+1>AP204_Pronia -> C:\Users\Ilhame\Desktop\AP204_Pronia\AP204_Pronia\bin\Debug\netcoreapp3.1\AP204_Pronia.Views.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
