@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ilhame\\Desktop\\AP204_Pronia\\AP204_Pronia\\AP204_Pronia.csproj": {}
+    "C:\\Users\\Ilhame\\Desktop\\Task-Pronia\\AP204_Pronia\\AP204_Pronia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ilhame\\Desktop\\AP204_Pronia\\AP204_Pronia\\AP204_Pronia.csproj": {
+    "C:\\Users\\Ilhame\\Desktop\\Task-Pronia\\AP204_Pronia\\AP204_Pronia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ilhame\\Desktop\\AP204_Pronia\\AP204_Pronia\\AP204_Pronia.csproj",
+        "projectUniqueName": "C:\\Users\\Ilhame\\Desktop\\Task-Pronia\\AP204_Pronia\\AP204_Pronia.csproj",
         "projectName": "AP204_Pronia",
-        "projectPath": "C:\\Users\\Ilhame\\Desktop\\AP204_Pronia\\AP204_Pronia\\AP204_Pronia.csproj",
+        "projectPath": "C:\\Users\\Ilhame\\Desktop\\Task-Pronia\\AP204_Pronia\\AP204_Pronia.csproj",
         "packagesPath": "C:\\Users\\Ilhame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ilhame\\Desktop\\AP204_Pronia\\AP204_Pronia\\obj\\",
+        "outputPath": "C:\\Users\\Ilhame\\Desktop\\Task-Pronia\\AP204_Pronia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ilhame\\AppData\\Roaming\\NuGet\\NuGet.Config",
